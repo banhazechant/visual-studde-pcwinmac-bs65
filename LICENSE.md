@@ -1,4 +1,4 @@
-# 
+# حصرية Visual Studio Code أدوات لـ Mac OS | جديد Visual Studio Code أدوات لـ PC Windows. مع النسخ الاحتياطي والاستعادة و تصحيح SQL — مُحسَّن لأقصى أداء على جميع المنصات.
 
 
 
